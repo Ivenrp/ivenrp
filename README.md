@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F172A,50:0EA5E9,100:8B5CF6&height=240&section=header&text=Iven%20Rival%20Pangestu&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Computer%20Engineer%20%E2%80%A2%20Software%20%26%20IoT%20Developer&descSize=18&descAlignY=62" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0EA5E9,100:8B5CF6&height=240&section=header&text=Iven%20Rival%20Pangestu&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Computer%20Engineer%20%E2%80%A2%20Software%20%26%20IoT%20Developer&descSize=18&descAlignY=62" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Software+%26+IoT+Developer;Embedded+Systems+Enthusiast;Cloud+%26+Backend+Explorer;Building+things+that+talk+to+hardware" alt="Typing SVG" />
@@ -64,23 +64,17 @@ int main() {
 
 ### 🔌 IoT & Embedded Systems
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,esp32,linux,mqtt,platformio,kicad,cmake&perline=8" alt="iot" />
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,ubuntu,cmake,bash&perline=6" alt="iot" />
 </p>
 
-<details>
-<summary><b>Kalau ikon di atas ada yang kosong, pakai badge ini</b></summary>
-<br/>
-
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
-<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
-<img src="https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white" />
-<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
-<img src="https://img.shields.io/badge/FreeRTOS-5EAB3C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Home%20Assistant-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=white" />
-
-</details>
+<p align="left">
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
+  <img src="https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white" />
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" />
+  <img src="https://img.shields.io/badge/FreeRTOS-5EAB3C?style=for-the-badge" />
+</p>
 
 ### ☁️ Cloud, DevOps & Database
 <p align="left">
@@ -92,7 +86,7 @@ int main() {
 
 ### 🧰 Tools & Design
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,postman,figma,notion,linux,ubuntu,wireshark,materialui&perline=10" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,postman,figma,notion,linux,ubuntu,materialui&perline=9" alt="tools" />
 </p>
 
 <br/>
@@ -108,9 +102,9 @@ int main() {
 
 <br/>
 
-## 🐍 Contribution Graph
+## 🔥 Contribution Heatmap
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ivenrp&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<img src="https://ghchart.rshah.org/38bdf8/Ivenrp" alt="Contribution heatmap" width="100%" />
 
 <br/>
 
